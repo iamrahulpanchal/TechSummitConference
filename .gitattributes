@@ -1,2 +1,2 @@
 *.javascript linguist-language=CSS
-*.js linguist-detectable=true
+*.js linguist-detectable=false
